@@ -24,4 +24,4 @@ This is a simple Flask application that demonstrates how to implement a rate-lim
 1. Clone the repository:
    ```bash
    git clone https://github.com/PriyankaTaug/RateLimiting.git
-   cd flask-rate-limiter
+ 
