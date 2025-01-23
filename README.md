@@ -25,7 +25,7 @@ This is a simple Flask application that demonstrates how to implement a rate-lim
    ```bash
    git clone https://github.com/PriyankaTaug/RateLimiting.git
 
-2 . Install requirements.txt file
+2. Install requirements.txt file
    ```bash
     pip freeze > requirements.txt
 
