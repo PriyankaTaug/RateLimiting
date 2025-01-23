@@ -19,11 +19,11 @@ This is a simple Flask application that demonstrates how to implement a rate-lim
 ### Prerequisites
 - Python 3.x
 - Flask
- ```bash
-  pip install flask
 
 ### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/PriyankaTaug/RateLimiting.git
+
+
  
