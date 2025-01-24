@@ -5,12 +5,12 @@ on:
     branches:
       - main
       - master
-      - DevCoded
+      - Switching
   pull_request:
     branches:
       - main
       - master
-      - DevCoded
+      - Switching
 
 jobs:
   test:
