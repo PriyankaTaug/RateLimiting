@@ -5,12 +5,12 @@ on:
     branches:
       - main
       - master
-      - NewSwitch
+      - NewAdded
   pull_request:
     branches:
       - main
       - master
-      - NewSwitch
+      - NewAdded
 
 jobs:
   test:
