@@ -4,10 +4,12 @@ on:
   push:
     branches:
       - main
+      - master
       - DevCoded
   pull_request:
     branches:
       - main
+      - master
       - DevCoded
 
 jobs:
