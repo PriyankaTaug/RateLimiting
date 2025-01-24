@@ -47,16 +47,12 @@ curl http://127.0.0.1:5000/limited
 Observe the response:
 
 ### For requests within the limit:
-
-
    {
         "message": "You are within the rate limit."
    }
 
 
 After exceeding the limit:
-
-
    {
         "error": "Rate limit exceeded"
    }
@@ -64,6 +60,7 @@ After exceeding the limit:
 
 
 🔄 Customization
+
 Adjusting the Rate Limit
 Modify the @rate_limit decorator in your endpoint:
 
@@ -72,6 +69,7 @@ Modify the @rate_limit decorator in your endpoint:
 
 🤝 Contributing
 Contributions are welcome! If you want to improve this project or add new features:
+
 
 Fork the repository.
 Create a feature branch.
